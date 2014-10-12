@@ -1,0 +1,16 @@
+there is a problem with the closed list.
+
+When adding to the closed list make sure you take the x and y off of the open list.
+
+How do i deal with keeping track of f value w/o buffered f (bf).
+
+still need to update parents i think when the g value is lower.
+
+Once player get to end of path, clear path, open, closed, all booleans and ints and shit.
+
+If clicked and player is currently moving to a target, stop the player from moving.
+
+abj block of player get instantly added to open so if i update a block next
+the player after start method is ran then it wont take that into account.
+
+stop player from walking diagonaly through blocks.
